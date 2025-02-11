@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5be3f9ee-5312-4442-8546-aa99d0ffddb5)# Portfolio Summary
+# Portfolio Summary
 This repository contains a sample of my Data Science &amp; Advanced Analytics work. Below is a summary to help you find the most relevant files
 
 ## Reverse Engineering Price Competitiveness by Modelling Proposal Win Rate
